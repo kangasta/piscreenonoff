@@ -1,7 +1,7 @@
 from resettabletimer import ResettableTimer
 from time import sleep
 
-from hcsr501 import HcSr501
+from pi_hcsr501 import HcSr501
 from screen_utils import screen
 
 class PiScreenOnOff(object):
